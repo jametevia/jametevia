@@ -1,3 +1,4 @@
+<img src="Jacob Metevia.jpg" alt="banner" />
 ### Hi there 👋
 
 <!--
