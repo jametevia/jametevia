@@ -1,5 +1,6 @@
 <img src="Jacob Metevia.jpg" alt="banner" />
-### Hi there 👋
+
+### Hi there! Welcome to my Github page 👋
 
 <!--
 **jametevia/jametevia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
