@@ -1,4 +1,4 @@
-<img src="Jacob Metevia.jpg" alt="banner" />
+<img src="Jacob Metevia.png" alt="banner" />
 
 ### Hi there! Welcome to my Github page 👋
 
