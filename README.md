@@ -20,7 +20,7 @@
 ---
 
 ### Send me a message
-I am open to collaboration, so if you'd like to work with me please reach out! 
+I am open to collaboration. Please reach out! 
 
 <p>
   <a href="https://www.linkedin.com/in/jacob-metevia/">
