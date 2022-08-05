@@ -2,19 +2,6 @@
 
 ### Hi there! Welcome to my Github page 👋
 
----
-
-
-### Send me a message
-I am open to collaboration. Please reach out! 
-
-<p>
-  <a href="https://www.linkedin.com/in/jacob-metevia/">
-    <img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-47A248?logo=LinkedIn&logoColor=white&style=for-the-badge"
-  </a>
-</p>
-  
----
   
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jametevia&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Jacob+Metevia's+Github+Stats&show_icons=true" />
 
