@@ -1,10 +1,4 @@
-<img src="Jacob Metevia.png" alt="banner" />
-
 ### Hi there! Welcome to my Github page 👋
-
-  
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jametevia&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Jacob+Metevia's+Github+Stats&show_icons=true" />
-
 
 <!--
 **jametevia/jametevia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
